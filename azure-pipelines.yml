@@ -12,8 +12,8 @@ pool:
 steps:
 - task: Ant@1
   inputs:
-    workingDirectory: 'C:\Users\ishan\Desktop\salesforce_ant_34.0\salesforce_ant_34.0\sample'
-    buildFile: 'build.xml'
+    workingDirectory: ''
+    buildFile: 'C:\Users\ishan\Desktop\salesforce_ant_34.0\salesforce_ant_34.0\sample\build.xml'
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.11'
     jdkArchitectureOption: 'x64'
